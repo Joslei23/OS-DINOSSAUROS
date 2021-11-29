@@ -1,0 +1,91 @@
+body
+{
+        background-image: url(dino2.jpg);
+        background-attachment: fixed;
+      
+    
+     
+}
+
+
+h1
+{
+    text-align: center;
+    color: white;
+    background-image: url(fogo.gif);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 120px;
+    font-stretch: expanded;
+}
+
+h2
+{
+    text-align:center;
+    color: saddlebrown;
+    font-size: 045px;
+}
+nav
+{
+    color: yellow;
+    text-align:center;
+    font-size: 055px;
+}
+
+footer
+{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+p
+{
+    text-indent: 50px;
+    font-size: 025px;  
+    text-align:center;
+    color: black;
+    font-style: normal;
+}
+h3
+{
+    color: white;
+    text-align: center;
+    font-size: 045px;
+}
+h4{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+li
+{
+    text-indent: 50px;
+    text-align:start;
+    color: black;
+    font-size: 25px;
+}
+
+h5
+{
+    color: white;
+    background-image: url(asteroide-causou-extinção-dos-dinossauros.jpg);
+    text-align: center;
+    font-size: 55px;
+}
+
+nav
+{
+    align-items: center;
+}
+
+embed
+{
+    align-items: center;
+    width: 800px;
+    height: 400px;
+   
+}
+li
+{
+    text-align: center;
+}
